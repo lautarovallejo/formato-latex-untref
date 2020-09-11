@@ -1,0 +1,80 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{leimeister}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e52cc7630f12d6c147e60d643ee05731}{%
+           family={Leimeister},
+           familyi={L\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e52cc7630f12d6c147e60d643ee05731}
+      \strng{fullhash}{e52cc7630f12d6c147e60d643ee05731}
+      \strng{bibnamehash}{e52cc7630f12d6c147e60d643ee05731}
+      \strng{authorbibnamehash}{e52cc7630f12d6c147e60d643ee05731}
+      \strng{authornamehash}{e52cc7630f12d6c147e60d643ee05731}
+      \strng{authorfullhash}{e52cc7630f12d6c147e60d643ee05731}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{journaltitle}{test Journal}
+      \field{month}{01}
+      \field{title}{Feature learning for classifying drum components from nonnegative matrix factorization}
+      \field{volume}{1}
+      \field{year}{2015}
+      \field{pages}{360\bibrangedash 368}
+      \range{pages}{9}
+    \endentry
+    \entry{foote1999}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ff30f652c0562e7b43524660986f21d6}{%
+           family={T.\bibnamedelimi Foote},
+           familyi={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff30f652c0562e7b43524660986f21d6}
+      \strng{fullhash}{ff30f652c0562e7b43524660986f21d6}
+      \strng{bibnamehash}{ff30f652c0562e7b43524660986f21d6}
+      \strng{authorbibnamehash}{ff30f652c0562e7b43524660986f21d6}
+      \strng{authornamehash}{ff30f652c0562e7b43524660986f21d6}
+      \strng{authorfullhash}{ff30f652c0562e7b43524660986f21d6}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{journaltitle}{Proceedings of SPIE - The International Society for Optical Engineering}
+      \field{month}{05}
+      \field{number}{31}
+      \field{title}{Content-Based Retrieval of Music and Audio}
+      \field{volume}{3229}
+      \field{year}{1999}
+      \field{pages}{10E\bibrangedash 20E}
+      \range{pages}{-1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

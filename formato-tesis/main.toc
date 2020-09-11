@@ -1,0 +1,24 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {spanish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Resumen/Abstract}{1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Introducción y Objetivos}{1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Introducción}{1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Objetivos}{1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1}Objetivo General}{1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2}Objetivos Específicos}{2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Estado del Arte y Marco Teórico}{3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Estado del Arte}{3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Marco Teórico}{4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Desarrollo de la Investigación}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Cronograma}{5}%
