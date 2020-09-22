@@ -1,83 +1,128 @@
 \input{head}  % mete el contenido del archivo head.tex como preámbulo
+%COMILLAS:  “”
+\begin{document}
+\input{portada} %inserta la portada
 
-\begin{document}  % acá empieza la diversión
-\pagenumbering{gobble}
-\input{portada}
-%\tableofcontents % índice (comentado por ahora)
-%\section{Resumen/Abstract} % resumen (comentado por ahora)
-\begin{center}
-	\pagenumbering{arabic}
-	\fontsize{14pt}{17pt}\selectfont
-	\textbf{Título de la Investigación}
-\end{center}
+% Esta parte setea la numeración (abajo a la izquierda) y la inicia
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot{}
+\fancyfoot[R]{\thepage}
+
+\tableofcontents % índice
+\newpage %comando para salto de página
+
 \begin{flushleft} 
 	\fontsize{14pt}{17pt}\selectfont
 	\textbf{Resumen}
 \end{flushleft}
 
-resumen
+Acá va el resumen.\par
+
+\begin{footnotesize}
+	\textbf{Keywords:} Palabra1, Palabra2, Palabra3, Palabra4, Palabra5.
+\end{footnotesize}
 
 \begin{flushleft} 
 	\fontsize{14pt}{17pt}\selectfont
 	\textbf{Abstract}
 \end{flushleft}
 
-abstract
+Acá va el  abstract.\par
+
+\begin{footnotesize}
+	\textbf{Keywords:} Word1, Word2, Word3, Word4, Word5.
+\end{footnotesize}
+
+
+\newpage
+
+%Título (solo para el plan)
+%\begin{center}
+%	\fontsize{16pt}{17pt}\selectfont
+%	\textbf{Título}
+%\end{center}
 
 \section{Fundamentación e Introducción.}
-Primera cita \cite{leimeister}
+Esta es una primera cita en un primer párrafo \cite{Repp2005}.\par
+Estas son dos cita en un segundo párrafo \cite{Grootswager2020, Geronazzo2014}.\par
+Acá tenemos varias citas en conjunto \cite{Gallant2019, Bridges2020, Anwyl2020, Pronk2020}.
 
-\section{Objetivos Marco Teórico y Estado del Arte.}
-Segunda cita \cite{foote1999}
+\section{Objetivos}
+\subsection{Objetivo general}
+Acá va el objetivo principal.\par
+\subsection{Objetivo específico}
+Lista de objetivos específicos
+\begin{itemize}
+\item Primer objetivo
+\item Segundo objetivo
+\item Tercer objetivo, que se divide en:
+	\begin{itemize}
+		\item Primer sub-objetivo
+		\item Segundo sub-objetivo
+		\item Tercer sub-objetivo
+	\end{itemize}
+\item Cuarto objetivo
+\end{itemize}
 
-
-\section{Diseño de la Investigación.}
-La curva de respuesta en frecuencia se observa en la Figura \ref{fig:RespFrec}.
+\section{Marco Teórico y Estado del Arte.}
+En la Figura \ref{fig:RespFrec} hay un modelo de figura.
 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=15.5 cm]{RespFrec.jpg}
-	\caption[RespFrec]{Respuesta en frecuencia del amplificador en condición estándar.} 
+	\caption[RespFrec]{Figura modelo} 
 	\label{fig:RespFrec}
 \end{figure}
 
-En la Tabla \ref{tab:FrecRang} se expresan los resultados del ancho de frecuencia limitado por ganancia. Cabe destacar que la frecuencia de corte inferior se vio limitada por la menor frecuencia que se pudo generar con el generador de señales utilizado, con lo que la atenuación de 3 dB no fue alcanzada.
+\section{Diseño de la Investigación.}
 
+\subsection{Diseño prueba objetiva: Definición de Variables.}
+En la tabla \ref{tab:HRTFangles} se ve un modelo de tabla.
 
 \begin{table}[h]
 	\centering
-	\caption{Resultados de la medición de respuesta en frecuencia (k = 2).}
-	\begin{tabular}{cccc}
+	\caption{Título de la tabla.}
+	\begin{tabular}{ccc}
 		\hline
-		\textbf{Frecuencia}&\textbf{$V_{in}$}&\textbf{$V_{out}$}&\textbf{Atenuación}\\\hline
+		\textbf{Columna 1}&\textbf{Columna 2}&\textbf{Columna 3}\\\hline
 		
-		1000,12 Hz ± 0,07 Hz & 448,44 mV ± 0,67 mV & 22,596 V ± 0,06 V &       0 dB \\\hline
-		
-		9,622 Hz ± 0,01 Hz & 445,53 mV ± 2,26 mV & 18,126 V ± 0,08 V & 1,915 dB  ± 0,002 dB \\\hline
-		
-		90619,2 Hz ± 6,28 Hz & 453,05 mV ± 4,72 mV & 15,927 V ± 0,12 V & 3,038 dB  ± 0,003 dB \\\hline
-		
+		Fila 1 Col 1 & Fila 1 Col 2 & Fila 1 Col 3\\\hline
+		Fila 2 Col 1 & Fila 2 Col 2 & Fila 2 Col 3\\\hline
+		Fila 3 Col 1 & Fila 3 Col 2 & Fila 3 Col 3\\\hline
 	\end{tabular}  
-	\label{tab:FrecRang}
+	\label{tab:HRTFangles}
 \end{table}
 
-\subsection{Diseño prueba objetiva: Definición de Variables.}
-Lorem ipsum dolor sit amet consectetur adipiscing, elit cum ultricies inceptos tortor auctor, eros velit neque sollicitudin hac. Blandit accumsan felis dictumst phasellus vivamus integer pharetra egestas euismod hendrerit, porta faucibus turpis cubilia urna mauris luctus erat ut, facilisis dis velit natoque tempor libero potenti gravida lectus. Nisl mollis ultricies imperdiet justo per blandit purus fames, duis montes condimentum sodales tristique a torquent porta elementum, nisi convallis ante id rutrum netus nibh.
-
 \subsection{Diseño prueba subjetiva: Encuesta y Muestra.}
-Lorem ipsum dolor sit amet consectetur adipiscing, elit cum ultricies inceptos tortor auctor, eros velit neque sollicitudin hac. Blandit accumsan felis dictumst phasellus vivamus integer pharetra egestas euismod hendrerit, porta faucibus turpis cubilia urna mauris luctus erat ut, facilisis dis velit natoque tempor libero potenti gravida lectus. Nisl mollis ultricies imperdiet justo per blandit purus fames, duis montes condimentum sodales tristique a torquent porta elementum, nisi convallis ante id rutrum netus nibh. 
+Acá hay una lista numerada:
+\begin{enumerate}
+	\item Primero
+	\item Segundo:
+	\begin{enumerate}
+		\item Primero del segundo
+		\item Segundo del segundo
+		\item Tercero del segundo
+	\end{enumerate}
+\end{enumerate}
 
+\section{Resultados.}
 
-\section{Validación de las pruebas.}
-Lorem ipsum dolor sit amet consectetur adipiscing, elit cum ultricies inceptos tortor auctor, eros velit neque sollicitudin hac. Blandit accumsan felis dictumst phasellus vivamus integer pharetra egestas euismod hendrerit, porta faucibus turpis cubilia urna mauris luctus erat ut, facilisis dis velit natoque tempor libero potenti gravida lectus. Nisl mollis ultricies imperdiet justo per blandit purus fames, duis montes condimentum sodales tristique a torquent porta elementum, nisi convallis ante id rutrum netus nibh.
-\section{Análisis de los resultados: Aplicaciones estadísticas.}
-Lorem ipsum dolor sit amet consectetur adipiscing, elit cum ultricies inceptos tortor auctor, eros velit neque sollicitudin hac. Blandit accumsan felis dictumst phasellus vivamus integer pharetra egestas euismod hendrerit, porta faucibus turpis cubilia urna mauris luctus erat ut, facilisis dis velit natoque tempor libero potenti gravida lectus. Nisl mollis ultricies imperdiet justo per blandit purus fames, duis montes condimentum sodales tristique a torquent porta elementum, nisi convallis ante id rutrum netus nibh.
+\section{Discusiones.}
+
 \section{Conclusiones}
-Lorem ipsum dolor sit amet consectetur adipiscing, elit cum ultricies inceptos tortor auctor, eros velit neque sollicitudin hac. Blandit accumsan felis dictumst phasellus vivamus integer pharetra egestas euismod hendrerit, porta faucibus turpis cubilia urna mauris luctus erat ut, facilisis dis velit natoque tempor libero potenti gravida lectus. Nisl mollis ultricies imperdiet justo per blandit purus fames, duis montes condimentum sodales tristique a torquent porta elementum, nisi convallis ante id rutrum netus nibh.
-\section{Líneas futuras de investigación.}
-Lorem ipsum dolor sit amet consectetur adipiscing, elit cum ultricies inceptos tortor auctor, eros velit neque sollicitudin hac. Blandit accumsan felis dictumst phasellus vivamus integer pharetra egestas euismod hendrerit, porta faucibus turpis cubilia urna mauris luctus erat ut, facilisis dis velit natoque tempor libero potenti gravida lectus. Nisl mollis ultricies imperdiet justo per blandit purus fames, duis montes condimentum sodales tristique a torquent porta elementum, nisi convallis ante id rutrum netus nibh.
-\section{Cronograma}
 
+\section{Líneas futuras de investigación.}
+
+\section{Cronograma} %solo para plan de tesis
+Diagrama de Gantt de modelo.
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.8\textwidth]{Cronograma.png}
+	\label{fig:Cronograma}
+\end{figure}
+
+\newpage
 \section{Bibliografía}
 \printbibliography[heading=none]
 

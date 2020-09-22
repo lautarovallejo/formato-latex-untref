@@ -1,24 +1,30 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {spanish}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Resumen/Abstract}{1}%
+\contentsline {section}{\numberline {1}Fundamentación e Introducción.}{3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Introducción y Objetivos}{1}%
+\contentsline {section}{\numberline {2}Objetivos}{3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Introducción}{1}%
+\contentsline {subsection}{\numberline {2.1}Objetivo general}{3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Objetivos}{1}%
+\contentsline {subsection}{\numberline {2.2}Objetivo específico}{3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.1}Objetivo General}{1}%
+\contentsline {section}{\numberline {3}Marco Teórico y Estado del Arte.}{3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.2}Objetivos Específicos}{2}%
+\contentsline {section}{\numberline {4}Diseño de la Investigación.}{3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Estado del Arte y Marco Teórico}{3}%
+\contentsline {subsection}{\numberline {4.1}Diseño prueba objetiva: Definición de Variables.}{3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Estado del Arte}{3}%
+\contentsline {subsection}{\numberline {4.2}Diseño prueba subjetiva: Encuesta y Muestra.}{4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Marco Teórico}{4}%
+\contentsline {section}{\numberline {5}Resultados.}{5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Desarrollo de la Investigación}{5}%
+\contentsline {section}{\numberline {6}Discusiones.}{5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Cronograma}{5}%
+\contentsline {section}{\numberline {7}Conclusiones}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Líneas futuras de investigación.}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}Cronograma}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10}Bibliografía}{6}%

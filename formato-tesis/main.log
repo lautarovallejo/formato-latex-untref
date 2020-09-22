@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.6.29) (format=lualatex 2020.9.11)  11 SEP 2020 20:12
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.6.29) (format=lualatex 2020.9.11)  22 SEP 2020 15:48
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -90,6 +90,9 @@ iKTeX/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
+)
+("C:/Program Files/MiKTeX/tex/latex/setspace/setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
 )
 ("C:/Program Files/MiKTeX/tex/generic/babel/babel.sty"
 Package: babel 2020/06/10 3.45 The Babel package
@@ -205,16 +208,7 @@ Package babel Info: Making > an active character on input line 707.
 
 ("C:/Program Files/MiKTeX/tex/generic/hyph-utf8/loadhyph/loadhyph-es.tex"
 UTF-8 Spanish hyphenation patterns
-("C:/Program Files/MiKTeX/tex/generic/hyph-utf8/patterns/tex/hyph-es.tex")))
-("C:/Program Files/MiKTeX/tex/latex/babel-english/english.ldf"
-Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: \l@canadian = using hyphenrules for english
-(babel)             (\language0) on input line 102.
-Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language74) on input line 105.
-Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language74) on input line 108.
-))
+("C:/Program Files/MiKTeX/tex/generic/hyph-utf8/patterns/tex/hyph-es.tex"))))
 ("C:/Program Files/MiKTeX/tex/latex/fontspec/fontspec.sty"
 ("C:/Program Files/MiKTeX/tex/latex/l3packages/xparse/xparse.sty"
 ("C:/Program Files/MiKTeX/tex/latex/l3kernel/expl3.sty"
@@ -330,10 +324,6 @@ File: amsgen.sty 1999/11/30 v2.0 generic functions
 )
 \c@padzeroesN=\count192
 \fc@tmpcatcode=\count193
-
-("C:/Program Files/MiKTeX/tex/latex/fmtcount/fc-english.def"
-File: fc-english.def 2016/01/12
-)
 \@DT@modctr=\count194
 \@ordinalctr=\count195
 \@orgargctr=\count196
@@ -371,9 +361,28 @@ LaTeX Info: Redefining \datespanish on input line 85.
 \dt@a=\toks19
 \dt@b=\toks20
 )
+("C:/Program Files/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+)
+("C:/Program Files/MiKTeX/tex/latex/lipsum/lipsum.sty"
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+
+("C:/Program Files/MiKTeX/tex/latex/lipsum/lipsum.ltd.tex"
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+))
 ("C:/Program Files/MiKTeX/tex/latex/amsmath/amsmath.sty"
 Package: amsmath 2020/01/20 v2.17e AMS math features
-\@mathmargin=\skip49
+\@mathmargin=\skip58
 
 For additional information on amsmath, use the `?' option.
 ("C:/Program Files/MiKTeX/tex/latex/amsmath/amstext.sty"
@@ -418,8 +427,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \totwidth@=\dimen146
 \lineht@=\dimen147
 \@envbody=\toks23
-\multlinegap=\skip50
-\multlinetaggap=\skip51
+\multlinegap=\skip59
+\multlinetaggap=\skip60
 \mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
@@ -455,6 +464,23 @@ File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
 )
+("C:/Program Files/MiKTeX/tex/latex/caption/caption.sty"
+Package: caption 2020/09/02 v3.5a Customizing captions (AR)
+
+("C:/Program Files/MiKTeX/tex/latex/caption/caption3.sty"
+Package: caption3 2020/08/30 v2.0 caption3 kernel (AR)
+\captionmargin=\dimen150
+\captionmargin@=\dimen151
+\captionwidth=\dimen152
+\caption@tempdima=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count294
+\c@continuedfloat=\count295
+)
 ("C:/Program Files/MiKTeX/tex/lualatex/luatodonotes/luatodonotes.sty"
 Package: luatodonotes 2020/02/16 v0.5 luatodonotes source and documentation.
 
@@ -486,8 +512,8 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ("C:/Program Files/MiKTeX/tex/latex/pgf/utilities/pgfrcs.sty"
 ("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfutil-common.tex"
 \pgfutil@everybye=\toks25
-\pgfutil@tempdima=\dimen150
-\pgfutil@tempdimb=\dimen151
+\pgfutil@tempdima=\dimen157
+\pgfutil@tempdimb=\dimen158
 
 ("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfutil-common-lists.tex")) ("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfutil-latex.def"
 \pgfutil@abb=\box48
@@ -513,26 +539,26 @@ Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 ("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks28
 ))
-\pgf@x=\dimen152
-\pgf@y=\dimen153
-\pgf@xa=\dimen154
-\pgf@ya=\dimen155
-\pgf@xb=\dimen156
-\pgf@yb=\dimen157
-\pgf@xc=\dimen158
-\pgf@yc=\dimen159
-\pgf@xd=\dimen160
-\pgf@yd=\dimen161
+\pgf@x=\dimen159
+\pgf@y=\dimen160
+\pgf@xa=\dimen161
+\pgf@ya=\dimen162
+\pgf@xb=\dimen163
+\pgf@yb=\dimen164
+\pgf@xc=\dimen165
+\pgf@yc=\dimen166
+\pgf@xd=\dimen167
+\pgf@yd=\dimen168
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count294
-\c@pgf@countb=\count295
-\c@pgf@countc=\count296
-\c@pgf@countd=\count297
+\c@pgf@counta=\count296
+\c@pgf@countb=\count297
+\c@pgf@countc=\count298
+\c@pgf@countd=\count299
 \t@pgf@toka=\toks29
 \t@pgf@tokb=\toks30
 \t@pgf@tokc=\toks31
-\pgf@sys@id@count=\count298
+\pgf@sys@id@count=\count300
 ("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgf.cfg"
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
@@ -546,8 +572,8 @@ File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 ))) ("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.t
 ex"
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count299
-\pgfsyssoftpath@bigbuffer@items=\count300
+\pgfsyssoftpath@smallbuffer@items=\count301
+\pgfsyssoftpath@bigbuffer@items=\count302
 ) ("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 "
 File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
@@ -558,8 +584,8 @@ Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 ("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathcalc.code.tex"
 ("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathutil.code.tex")
 ("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathparser.code.tex"
-\pgfmath@dimen=\dimen162
-\pgfmath@count=\count301
+\pgfmath@dimen=\dimen169
+\pgfmath@count=\count303
 \pgfmath@box=\box49
 \pgfmath@toks=\toks32
 \pgfmath@stack@operand=\toks33
@@ -578,54 +604,54 @@ ode.tex")
 ("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.integerarithmet
 ics.code.tex")))
 ("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count302
+\c@pgfmathroundto@lastzeros=\count304
 ))
 ("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfint.code.tex")
 ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@picminx=\dimen163
-\pgf@picmaxx=\dimen164
-\pgf@picminy=\dimen165
-\pgf@picmaxy=\dimen166
-\pgf@pathminx=\dimen167
-\pgf@pathmaxx=\dimen168
-\pgf@pathminy=\dimen169
-\pgf@pathmaxy=\dimen170
-\pgf@xx=\dimen171
-\pgf@xy=\dimen172
-\pgf@yx=\dimen173
-\pgf@yy=\dimen174
-\pgf@zx=\dimen175
-\pgf@zy=\dimen176
+\pgf@picminx=\dimen170
+\pgf@picmaxx=\dimen171
+\pgf@picminy=\dimen172
+\pgf@picmaxy=\dimen173
+\pgf@pathminx=\dimen174
+\pgf@pathmaxx=\dimen175
+\pgf@pathminy=\dimen176
+\pgf@pathmaxy=\dimen177
+\pgf@xx=\dimen178
+\pgf@xy=\dimen179
+\pgf@yx=\dimen180
+\pgf@yy=\dimen181
+\pgf@zx=\dimen182
+\pgf@zy=\dimen183
 )
 ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.
 tex"
 File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@path@lastx=\dimen177
-\pgf@path@lasty=\dimen178
+\pgf@path@lastx=\dimen184
+\pgf@path@lasty=\dimen185
 )
 ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@shorten@end@additional=\dimen179
-\pgf@shorten@start@additional=\dimen180
+\pgf@shorten@end@additional=\dimen186
+\pgf@shorten@start@additional=\dimen187
 ) ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfpic=\box50
 \pgf@hbox=\box51
 \pgf@layerbox@main=\box52
-\pgf@picture@serial@count=\count303
+\pgf@picture@serial@count=\count305
 )
 ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.t
 ex"
 File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgflinewidth=\dimen181
+\pgflinewidth=\dimen188
 )
 ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoretransformations.cod
 e.tex"
 File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@pt@x=\dimen182
-\pgf@pt@y=\dimen183
-\pgf@pt@temp=\dimen184
+\pgf@pt@x=\dimen189
+\pgf@pt@y=\dimen190
+\pgf@pt@temp=\dimen191
 )
 ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorequick.code.tex"
 File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
@@ -639,13 +665,13 @@ File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowsep=\dimen185
+\pgfarrowsep=\dimen192
 )
 ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@max=\dimen186
-\pgf@sys@shading@range@num=\count304
-\pgf@shadingcount=\count305
+\pgf@max=\dimen193
+\pgf@sys@shading@range@num=\count306
+\pgf@shadingcount=\count307
 )
 ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex"
 File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
@@ -674,8 +700,8 @@ File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 ("C:/Program Files/MiKTeX/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen187
-\pgf@nodesepend=\dimen188
+\pgf@nodesepstart=\dimen194
+\pgf@nodesepend=\dimen195
 ) ("C:/Program Files/MiKTeX/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
 y"
 Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
@@ -688,8 +714,8 @@ Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
 Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 
 ("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmath.code.tex")
-\pgffor@iter=\dimen189
-\pgffor@skip=\dimen190
+\pgffor@iter=\dimen196
+\pgffor@skip=\dimen197
 \pgffor@stack=\toks35
 \pgffor@toks=\toks36
 ))
@@ -699,33 +725,33 @@ Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 ("C:/Program Files/MiKTeX/tex/generic/pgf/libraries/pgflibraryplothandlers.code
 .tex"
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count306
-\pgfplotmarksize=\dimen191
+\pgf@plot@mark@count=\count308
+\pgfplotmarksize=\dimen198
 )
-\tikz@lastx=\dimen192
-\tikz@lasty=\dimen193
-\tikz@lastxsaved=\dimen194
-\tikz@lastysaved=\dimen195
-\tikz@lastmovetox=\dimen196
-\tikz@lastmovetoy=\dimen197
-\tikzleveldistance=\dimen198
-\tikzsiblingdistance=\dimen199
+\tikz@lastx=\dimen199
+\tikz@lasty=\dimen256
+\tikz@lastxsaved=\dimen257
+\tikz@lastysaved=\dimen258
+\tikz@lastmovetox=\dimen259
+\tikz@lastmovetoy=\dimen260
+\tikzleveldistance=\dimen261
+\tikzsiblingdistance=\dimen262
 \tikz@figbox=\box55
 \tikz@figbox@bg=\box56
 \tikz@tempbox=\box57
 \tikz@tempbox@bg=\box58
-\tikztreelevel=\count307
-\tikznumberofchildren=\count308
-\tikznumberofcurrentchild=\count309
-\tikz@fig@count=\count310
+\tikztreelevel=\count309
+\tikznumberofchildren=\count310
+\tikznumberofcurrentchild=\count311
+\tikz@fig@count=\count312
 
 ("C:/Program Files/MiKTeX/tex/generic/pgf/modules/pgfmodulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count311
-\pgfmatrixcurrentcolumn=\count312
-\pgf@matrix@numberofcolumns=\count313
+\pgfmatrixcurrentrow=\count313
+\pgfmatrixcurrentcolumn=\count314
+\pgf@matrix@numberofcolumns=\count315
 )
-\tikz@expandcount=\count314
+\tikz@expandcount=\count316
 
 ("C:/Program Files/MiKTeX/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibr
 arytopaths.code.tex"
@@ -740,7 +766,7 @@ aryintersections.code.tex"
 ("C:/Program Files/MiKTeX/tex/generic/pgf/libraries/pgflibraryintersections.cod
 e.tex"
 ("C:/Program Files/MiKTeX/tex/generic/pgf/libraries/pgflibraryfpu.code.tex")
-\pgf@intersect@solutions=\count315
+\pgf@intersect@solutions=\count317
 ))
 ("C:/Program Files/MiKTeX/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibr
 arydecorations.pathmorphing.code.tex"
@@ -748,14 +774,14 @@ arydecorations.pathmorphing.code.tex"
 arydecorations.code.tex"
 ("C:/Program Files/MiKTeX/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
 "
-\pgfdecoratedcompleteddistance=\dimen256
-\pgfdecoratedremainingdistance=\dimen257
-\pgfdecoratedinputsegmentcompleteddistance=\dimen258
-\pgfdecoratedinputsegmentremainingdistance=\dimen259
-\pgf@decorate@distancetomove=\dimen260
-\pgf@decorate@repeatstate=\count316
-\pgfdecorationsegmentamplitude=\dimen261
-\pgfdecorationsegmentlength=\dimen262
+\pgfdecoratedcompleteddistance=\dimen263
+\pgfdecoratedremainingdistance=\dimen264
+\pgfdecoratedinputsegmentcompleteddistance=\dimen265
+\pgfdecoratedinputsegmentremainingdistance=\dimen266
+\pgf@decorate@distancetomove=\dimen267
+\pgf@decorate@repeatstate=\count318
+\pgfdecorationsegmentamplitude=\dimen268
+\pgfdecorationsegmentlength=\dimen269
 )
 \tikz@lib@dec@box=\box59
 )
@@ -769,7 +795,7 @@ Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX
 
 ("C:/Program Files/MiKTeX/tex/luatex/ctablestack/ctablestack.sty"
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count317
+\@catcodetablestackcnt=\count319
 )
 \CatcodeTableOther=\catcodetable7
 \CatcodeTableExpl=\catcodetable8
@@ -788,8 +814,8 @@ Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 ))
 ("C:/Program Files/MiKTeX/tex/latex/xstring/xstring.sty"
 ("C:/Program Files/MiKTeX/tex/generic/xstring/xstring.tex"
-\integerpart=\count318
-\decimalpart=\count319
+\integerpart=\count320
+\decimalpart=\count321
 )
 Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 )
@@ -823,12 +849,12 @@ Package zref Info: New property list: main on input line 763.
 Package zref Info: New property: default on input line 764.
 Package zref Info: New property: page on input line 765.
 )
-\c@abspage=\count320
+\c@abspage=\count322
 Package zref Info: New property: abspage on input line 66.
 )
 ("C:/Program Files/MiKTeX/tex/latex/ifoddpage/ifoddpage.sty"
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count321
+\c@checkoddpage=\count323
 )
 ("C:/Program Files/MiKTeX/tex/latex/soul/soul.sty"
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
@@ -837,41 +863,41 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@cmds=\toks41
 \SOUL@buffer=\toks42
 \SOUL@token=\toks43
-\SOUL@spaceskip=\skip52
-\SOUL@ttwidth=\dimen263
-\SOUL@uldp=\dimen264
-\SOUL@ulht=\dimen265
+\SOUL@spaceskip=\skip61
+\SOUL@ttwidth=\dimen270
+\SOUL@uldp=\dimen271
+\SOUL@ulht=\dimen272
 )
 ("C:/Program Files/MiKTeX/tex/latex/soulpos/soulpos.sty"
 Package: soulpos 2012/02/25 v1.1 Fancy underlining
-\ulp@subcnt=\count322
-\ulp@cnt=\count323
+\ulp@subcnt=\count324
+\ulp@cnt=\count325
 \ulp@out=\write4
 \ulp@in=\read4
-\ulwidth=\dimen266
+\ulwidth=\dimen273
 )
-\c@@todonotes@numberoftodonotes=\count324
-\c@@todonotes@numberofLinesInArea=\count325
-\@todonotes@extractx=\dimen267
-\@todonotes@extracty=\dimen268
+\c@@todonotes@numberoftodonotes=\count326
+\c@@todonotes@numberofLinesInArea=\count327
+\@todonotes@extractx=\dimen274
+\@todonotes@extracty=\dimen275
 \@todonotes@heightcalcbox=\box60
-\@todonotes@heightcalcboxdepth=\dimen269
-\@todonotes@heightcalcboxheight=\dimen270
+\@todonotes@heightcalcboxdepth=\dimen276
+\@todonotes@heightcalcboxheight=\dimen277
 \@todonotes@notetextbox=\box61
-\@todonotes@baselineskip=\dimen271
-\@todonotes@normalbaselineskip=\dimen272
-\@todonotes@fontsize=\dimen273
-\@todonotes@currentsidemargin=\dimen274
-\todonotes@textmark@width=\skip53
-\todonotes@textmark@fontsize=\skip54
-\todonotes@textmark@linebelow=\skip55
-\todonotes@textmark@lineabove=\skip56
+\@todonotes@baselineskip=\dimen278
+\@todonotes@normalbaselineskip=\dimen279
+\@todonotes@fontsize=\dimen280
+\@todonotes@currentsidemargin=\dimen281
+\todonotes@textmark@width=\skip62
+\todonotes@textmark@fontsize=\skip63
+\todonotes@textmark@linebelow=\skip64
+\todonotes@textmark@lineabove=\skip65
 \@todonotes@toks@currentlinecolor=\toks44
 \@todonotes@toks@currentbackgroundcolor=\toks45
 \@todonotes@toks@currentbordercolor=\toks46
 \@todonotes@toks@currentleaderwidth=\toks47
 \@todonotes@toks@sizecommand=\toks48
-\c@todonotes@oldtocdepth=\count326
+\c@todonotes@oldtocdepth=\count328
 )
 ("C:/Program Files/MiKTeX/tex/latex/geometry/geometry.sty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -879,17 +905,17 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 ("C:/Program Files/MiKTeX/tex/generic/iftex/ifvtex.sty"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count327
-\Gm@cntv=\count328
-\c@Gm@tempcnt=\count329
-\Gm@bindingoffset=\dimen275
-\Gm@wd@mp=\dimen276
-\Gm@odd@mp=\dimen277
-\Gm@even@mp=\dimen278
-\Gm@layoutwidth=\dimen279
-\Gm@layoutheight=\dimen280
-\Gm@layouthoffset=\dimen281
-\Gm@layoutvoffset=\dimen282
+\Gm@cnth=\count329
+\Gm@cntv=\count330
+\c@Gm@tempcnt=\count331
+\Gm@bindingoffset=\dimen282
+\Gm@wd@mp=\dimen283
+\Gm@odd@mp=\dimen284
+\Gm@even@mp=\dimen285
+\Gm@layoutwidth=\dimen286
+\Gm@layoutheight=\dimen287
+\Gm@layouthoffset=\dimen288
+\Gm@layoutvoffset=\dimen289
 \Gm@dimlist=\toks49
 
 ("C:/Program Files/MiKTeX/tex/latex/geometry/geometry.cfg"))
@@ -901,7 +927,7 @@ Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
 ("C:/Program Files/MiKTeX/tex/latex/logreq/logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count330
+\lrq@indent=\count332
 
 ("C:/Program Files/MiKTeX/tex/latex/logreq/logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -910,153 +936,153 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count331
-\c@listtotal=\count332
-\c@listcount=\count333
-\c@liststart=\count334
-\c@liststop=\count335
-\c@citecount=\count336
-\c@citetotal=\count337
-\c@multicitecount=\count338
-\c@multicitetotal=\count339
-\c@instcount=\count340
-\c@maxnames=\count341
-\c@minnames=\count342
-\c@maxitems=\count343
-\c@minitems=\count344
-\c@citecounter=\count345
-\c@maxcitecounter=\count346
-\c@savedcitecounter=\count347
-\c@uniquelist=\count348
-\c@uniquename=\count349
-\c@refsection=\count350
-\c@refsegment=\count351
-\c@maxextratitle=\count352
-\c@maxextratitleyear=\count353
-\c@maxextraname=\count354
-\c@maxextradate=\count355
-\c@maxextraalpha=\count356
-\c@abbrvpenalty=\count357
-\c@highnamepenalty=\count358
-\c@lownamepenalty=\count359
-\c@maxparens=\count360
-\c@parenlevel=\count361
-\blx@tempcnta=\count362
-\blx@tempcntb=\count363
-\blx@tempcntc=\count364
-\blx@maxsection=\count365
-\blx@maxsegment@0=\count366
-\blx@notetype=\count367
-\blx@parenlevel@text=\count368
-\blx@parenlevel@foot=\count369
-\blx@sectionciteorder@0=\count370
-\blx@entrysetcounter=\count371
-\labelnumberwidth=\skip57
-\labelalphawidth=\skip58
-\biblabelsep=\skip59
-\bibitemsep=\skip60
-\bibnamesep=\skip61
-\bibinitsep=\skip62
-\bibparsep=\skip63
-\bibhang=\skip64
+\c@tabx@nest=\count333
+\c@listtotal=\count334
+\c@listcount=\count335
+\c@liststart=\count336
+\c@liststop=\count337
+\c@citecount=\count338
+\c@citetotal=\count339
+\c@multicitecount=\count340
+\c@multicitetotal=\count341
+\c@instcount=\count342
+\c@maxnames=\count343
+\c@minnames=\count344
+\c@maxitems=\count345
+\c@minitems=\count346
+\c@citecounter=\count347
+\c@maxcitecounter=\count348
+\c@savedcitecounter=\count349
+\c@uniquelist=\count350
+\c@uniquename=\count351
+\c@refsection=\count352
+\c@refsegment=\count353
+\c@maxextratitle=\count354
+\c@maxextratitleyear=\count355
+\c@maxextraname=\count356
+\c@maxextradate=\count357
+\c@maxextraalpha=\count358
+\c@abbrvpenalty=\count359
+\c@highnamepenalty=\count360
+\c@lownamepenalty=\count361
+\c@maxparens=\count362
+\c@parenlevel=\count363
+\blx@tempcnta=\count364
+\blx@tempcntb=\count365
+\blx@tempcntc=\count366
+\blx@maxsection=\count367
+\blx@maxsegment@0=\count368
+\blx@notetype=\count369
+\blx@parenlevel@text=\count370
+\blx@parenlevel@foot=\count371
+\blx@sectionciteorder@0=\count372
+\blx@entrysetcounter=\count373
+\labelnumberwidth=\skip66
+\labelalphawidth=\skip67
+\biblabelsep=\skip68
+\bibitemsep=\skip69
+\bibnamesep=\skip70
+\bibinitsep=\skip71
+\bibparsep=\skip72
+\bibhang=\skip73
 \blx@bcfin=\read5
 \blx@bcfout=\write5
 \blx@langwohyphens=\language80
-\c@mincomprange=\count372
-\c@maxcomprange=\count373
-\c@mincompwidth=\count374
+\c@mincomprange=\count374
+\c@maxcomprange=\count375
+\c@mincompwidth=\count376
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
 ("C:/Program Files/MiKTeX/tex/latex/biblatex/blx-dm.def"
 File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
-Package biblatex Info: Trying to load biblatex citestyle data model...
+Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'numeric-comp.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count375
-\c@savedafterword=\count376
-\c@annotator=\count377
-\c@savedannotator=\count378
-\c@author=\count379
-\c@savedauthor=\count380
-\c@bookauthor=\count381
-\c@savedbookauthor=\count382
-\c@commentator=\count383
-\c@savedcommentator=\count384
-\c@editor=\count385
-\c@savededitor=\count386
-\c@editora=\count387
-\c@savededitora=\count388
-\c@editorb=\count389
-\c@savededitorb=\count390
-\c@editorc=\count391
-\c@savededitorc=\count392
-\c@foreword=\count393
-\c@savedforeword=\count394
-\c@holder=\count395
-\c@savedholder=\count396
-\c@introduction=\count397
-\c@savedintroduction=\count398
-\c@namea=\count399
-\c@savednamea=\count400
-\c@nameb=\count401
-\c@savednameb=\count402
-\c@namec=\count403
-\c@savednamec=\count404
-\c@translator=\count405
-\c@savedtranslator=\count406
-\c@shortauthor=\count407
-\c@savedshortauthor=\count408
-\c@shorteditor=\count409
-\c@savedshorteditor=\count410
-\c@labelname=\count411
-\c@savedlabelname=\count412
-\c@institution=\count413
-\c@savedinstitution=\count414
-\c@lista=\count415
-\c@savedlista=\count416
-\c@listb=\count417
-\c@savedlistb=\count418
-\c@listc=\count419
-\c@savedlistc=\count420
-\c@listd=\count421
-\c@savedlistd=\count422
-\c@liste=\count423
-\c@savedliste=\count424
-\c@listf=\count425
-\c@savedlistf=\count426
-\c@location=\count427
-\c@savedlocation=\count428
-\c@organization=\count429
-\c@savedorganization=\count430
-\c@origlocation=\count431
-\c@savedoriglocation=\count432
-\c@origpublisher=\count433
-\c@savedorigpublisher=\count434
-\c@publisher=\count435
-\c@savedpublisher=\count436
-\c@language=\count437
-\c@savedlanguage=\count438
-\c@origlanguage=\count439
-\c@savedoriglanguage=\count440
-\c@pageref=\count441
-\c@savedpageref=\count442
-\shorthandwidth=\skip65
-\shortjournalwidth=\skip66
-\shortserieswidth=\skip67
-\shorttitlewidth=\skip68
-\shortauthorwidth=\skip69
-\shorteditorwidth=\skip70
-\locallabelnumberwidth=\skip71
-\locallabelalphawidth=\skip72
-\localshorthandwidth=\skip73
-\localshortjournalwidth=\skip74
-\localshortserieswidth=\skip75
-\localshorttitlewidth=\skip76
-\localshortauthorwidth=\skip77
-\localshorteditorwidth=\skip78
+\c@afterword=\count377
+\c@savedafterword=\count378
+\c@annotator=\count379
+\c@savedannotator=\count380
+\c@author=\count381
+\c@savedauthor=\count382
+\c@bookauthor=\count383
+\c@savedbookauthor=\count384
+\c@commentator=\count385
+\c@savedcommentator=\count386
+\c@editor=\count387
+\c@savededitor=\count388
+\c@editora=\count389
+\c@savededitora=\count390
+\c@editorb=\count391
+\c@savededitorb=\count392
+\c@editorc=\count393
+\c@savededitorc=\count394
+\c@foreword=\count395
+\c@savedforeword=\count396
+\c@holder=\count397
+\c@savedholder=\count398
+\c@introduction=\count399
+\c@savedintroduction=\count400
+\c@namea=\count401
+\c@savednamea=\count402
+\c@nameb=\count403
+\c@savednameb=\count404
+\c@namec=\count405
+\c@savednamec=\count406
+\c@translator=\count407
+\c@savedtranslator=\count408
+\c@shortauthor=\count409
+\c@savedshortauthor=\count410
+\c@shorteditor=\count411
+\c@savedshorteditor=\count412
+\c@labelname=\count413
+\c@savedlabelname=\count414
+\c@institution=\count415
+\c@savedinstitution=\count416
+\c@lista=\count417
+\c@savedlista=\count418
+\c@listb=\count419
+\c@savedlistb=\count420
+\c@listc=\count421
+\c@savedlistc=\count422
+\c@listd=\count423
+\c@savedlistd=\count424
+\c@liste=\count425
+\c@savedliste=\count426
+\c@listf=\count427
+\c@savedlistf=\count428
+\c@location=\count429
+\c@savedlocation=\count430
+\c@organization=\count431
+\c@savedorganization=\count432
+\c@origlocation=\count433
+\c@savedoriglocation=\count434
+\c@origpublisher=\count435
+\c@savedorigpublisher=\count436
+\c@publisher=\count437
+\c@savedpublisher=\count438
+\c@language=\count439
+\c@savedlanguage=\count440
+\c@origlanguage=\count441
+\c@savedoriglanguage=\count442
+\c@pageref=\count443
+\c@savedpageref=\count444
+\shorthandwidth=\skip74
+\shortjournalwidth=\skip75
+\shortserieswidth=\skip76
+\shorttitlewidth=\skip77
+\shortauthorwidth=\skip78
+\shorteditorwidth=\skip79
+\locallabelnumberwidth=\skip80
+\locallabelalphawidth=\skip81
+\localshorthandwidth=\skip82
+\localshortjournalwidth=\skip83
+\localshortserieswidth=\skip84
+\localshorttitlewidth=\skip85
+\localshortauthorwidth=\skip86
+\localshorteditorwidth=\skip87
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
 
@@ -1072,20 +1098,25 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 ("C:/Program Files/MiKTeX/tex/latex/biblatex/biblatex.def"
 File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
-\c@textcitecount=\count443
-\c@textcitetotal=\count444
-\c@textcitemaxnames=\count445
-\c@biburlbigbreakpenalty=\count446
-\c@biburlbreakpenalty=\count447
-\c@biburlnumpenalty=\count448
-\c@biburlucpenalty=\count449
-\c@biburllcpenalty=\count450
+\c@textcitecount=\count445
+\c@textcitetotal=\count446
+\c@textcitemaxnames=\count447
+\c@biburlbigbreakpenalty=\count448
+\c@biburlbreakpenalty=\count449
+\c@biburlnumpenalty=\count450
+\c@biburlucpenalty=\count451
+\c@biburllcpenalty=\count452
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count451
+\c@smartand=\count453
 )
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+("C:/Program Files/MiKTeX/tex/latex/biblatex/bbx/numeric-comp.bbx"
+File: numeric-comp.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
@@ -1096,16 +1127,16 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 ("C:/Program Files/MiKTeX/tex/latex/biblatex/bbx/standard.bbx"
 File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count452
-\c@bbx:relatedtotal=\count453
-))
+\c@bbx:relatedcount=\count454
+\c@bbx:relatedtotal=\count455
+)))
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
 ("C:/Program Files/MiKTeX/tex/latex/biblatex/cbx/numeric-comp.cbx"
 File: numeric-comp.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count454
-\c@cbx@tempcntb=\count455
+\c@cbx@tempcnta=\count456
+\c@cbx@tempcntb=\count457
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1134,22 +1165,25 @@ File: tikzlibrarybabel.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ) ("C:/Program Files/MiKTeX/tex/latex/titlesec/titlesec.sty"
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box62
-\beforetitleunit=\skip79
-\aftertitleunit=\skip80
-\ttl@plus=\dimen283
-\ttl@minus=\dimen284
+\beforetitleunit=\skip88
+\aftertitleunit=\skip89
+\ttl@plus=\dimen290
+\ttl@minus=\dimen291
 \ttl@toksa=\toks50
-\titlewidth=\dimen285
-\titlewidthlast=\dimen286
-\titlewidthfirst=\dimen287
+\titlewidth=\dimen292
+\titlewidthlast=\dimen293
+\titlewidthfirst=\dimen294
 ))
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count456
-\@quotereset=\count457
-(./main.aux)
+\@quotelevel=\count458
+\@quotereset=\count459
+(./main.aux
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+)
 \openout1 = main.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -1173,6 +1207,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
@@ -1234,22 +1270,25 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 
 ("C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count458
-\scratchdimen=\dimen288
+\scratchcounter=\count460
+\scratchdimen=\dimen295
 \scratchbox=\box63
-\nofMPsegments=\count459
-\nofMParguments=\count460
+\nofMPsegments=\count461
+\nofMParguments=\count462
 \everyMPshowfont=\toks51
-\MPscratchCnt=\count461
-\MPscratchDim=\dimen289
-\MPnumerator=\count462
-\makeMPintoPDFobject=\count463
+\MPscratchCnt=\count463
+\MPscratchDim=\dimen296
+\MPnumerator=\count464
+\makeMPintoPDFobject=\count465
 \everyMPtoPDFconversion=\toks52
 ) ("C:/Program Files/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 5.
 )
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box64
 
@@ -1287,14 +1326,8 @@ ABD: EveryShipout initializing macros
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-("C:/Program Files/MiKTeX/tex/latex/biblatex/lbx/english.lbx"
-File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
-)
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
-
 ("C:/Program Files/MiKTeX/tex/latex/biblatex/lbx/spanish.lbx"
 File: spanish.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
@@ -1330,7 +1363,7 @@ tNotes'
 	[\directlua]:1: in main chunk.
 <argument> ...Notes()} \directlua {luatodonotes.printNotes()}
                                                    \end {tikzpicture}\@todon...
-l.37 \end{titlepage}
+l.38 \end{titlepage}
                   
 The lua interpreter ran into a problem, so the
 remainder of this lua chunk will be ignored.
@@ -1340,21 +1373,67 @@ remainder of this lua chunk will be ignored.
 
 \openout4 = main.upa
 {C:/Users/lauta/AppData/Local/MiKTeX/pdftex/config/pdftex.map}<./imagenes/logo.p
-ng>])
-<imagenes/RespFrec.jpg, id=11, 3525.74358pt x 1644.1425pt>
-File: imagenes/RespFrec.jpg Graphic file (type jpg)
-<use imagenes/RespFrec.jpg>
-Package luatex.def Info: imagenes/RespFrec.jpg  used on input line 39.
-(luatex.def)             Requested size: 441.01772pt x 205.64275pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
+ng>]) (./main.toc
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
  ("C:/Program Files/MiKTeX/tex/latex/amsfonts/umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
 
 ("C:/Program Files/MiKTeX/tex/latex/amsfonts/umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+))
+\tf@toc=\write6
+
+\openout6 = main.toc
+... Files/MiKTeX/tex/lualatex/luatodonotes/luatodonotes.lua:2144: Cannot place l
+abels on any side of text (not enough space). Consider using the additionalMargi
+n option of the package to extend the page margins or minNoteWidth to decrease t
+he minimum width required
+stack traceback:
+	[C]: in function 'error'
+	... Files/MiKTeX/tex/lualatex/luatodonotes/luatodonotes.lua:2144: in field 'alg
+o'
+	... Files/MiKTeX/tex/lualatex/luatodonotes/luatodonotes.lua:551: in field 'prin
+tNotes'
+	[\directlua]:1: in main chunk.
+<argument> ...Notes()} \directlua {luatodonotes.printNotes()}
+                                                   \end {tikzpicture}\@todon...
+l.13 \newpage
+            %comando para salto de página
+The lua interpreter ran into a problem, so the
+remainder of this lua chunk will be ignored.
+
+[1]... Files/MiKTeX/tex/lualatex/luatodonotes/luatodonotes.lua:2144: Cannot plac
+e labels on any side of text (not enough space). Consider using the additionalMa
+rgin option of the package to extend the page margins or minNoteWidth to decreas
+e the minimum width required
+stack traceback:
+	[C]: in function 'error'
+	... Files/MiKTeX/tex/lualatex/luatodonotes/luatodonotes.lua:2144: in field 'alg
+o'
+	... Files/MiKTeX/tex/lualatex/luatodonotes/luatodonotes.lua:551: in field 'prin
+tNotes'
+	[\directlua]:1: in main chunk.
+<argument> ...Notes()} \directlua {luatodonotes.printNotes()}
+                                                   \end {tikzpicture}\@todon...
+l.38 \newpage
+           
+The lua interpreter ran into a problem, so the
+remainder of this lua chunk will be ignored.
+
+[2]
+<imagenes/RespFrec.jpg, id=17, 3525.74358pt x 1644.1425pt>
+File: imagenes/RespFrec.jpg Graphic file (type jpg)
+<use imagenes/RespFrec.jpg>
+Package luatex.def Info: imagenes/RespFrec.jpg  used on input line 73.
+(luatex.def)             Requested size: 441.01772pt x 205.64275pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1371,12 +1450,36 @@ tNotes'
 	[\directlua]:1: in main chunk.
 <argument> ...Notes()} \directlua {luatodonotes.printNotes()}
                                                    \end {tikzpicture}\@todon...
-l.66 
-   
+l.104 		\item P
+             rimero del segundo
 The lua interpreter ran into a problem, so the
 remainder of this lua chunk will be ignored.
 
-[1<./imagenes/RespFrec.jpg>]... Files/MiKTeX/tex/lualatex/luatodonotes/luatodono
+[3]
+<imagenes/Cronograma.png, id=21, 807.7678pt x 339.51843pt>
+File: imagenes/Cronograma.png Graphic file (type png)
+<use imagenes/Cronograma.png>
+Package luatex.def Info: imagenes/Cronograma.png  used on input line 122.
+(luatex.def)             Requested size: 352.81552pt x 148.29546pt.
+... Files/MiKTeX/tex/lualatex/luatodonotes/luatodonotes.lua:2144: Cannot place l
+abels on any side of text (not enough space). Consider using the additionalMargi
+n option of the package to extend the page margins or minNoteWidth to decrease t
+he minimum width required
+stack traceback:
+	[C]: in function 'error'
+	... Files/MiKTeX/tex/lualatex/luatodonotes/luatodonotes.lua:2144: in field 'alg
+o'
+	... Files/MiKTeX/tex/lualatex/luatodonotes/luatodonotes.lua:551: in field 'prin
+tNotes'
+	[\directlua]:1: in main chunk.
+<argument> ...Notes()} \directlua {luatodonotes.printNotes()}
+                                                   \end {tikzpicture}\@todon...
+l.125 
+    
+The lua interpreter ran into a problem, so the
+remainder of this lua chunk will be ignored.
+
+[4<./imagenes/RespFrec.jpg>]... Files/MiKTeX/tex/lualatex/luatodonotes/luatodono
 tes.lua:2144: Cannot place labels on any side of text (not enough space). Consid
 er using the additionalMargin option of the package to extend the page margins o
 r minNoteWidth to decrease the minimum width required
@@ -1389,16 +1492,22 @@ tNotes'
 	[\directlua]:1: in main chunk.
 <argument> ...Notes()} \directlua {luatodonotes.printNotes()}
                                                    \end {tikzpicture}\@todon...
-l.75 \section{Conclusiones}
-                         
+l.126 \newpage
+            
 The lua interpreter ran into a problem, so the
 remainder of this lua chunk will be ignored.
 
-[2]
+[5<./imagenes/Cronograma.png>]
 
 Package biblatex Warning: Name format 'last-first' deprecated.
 (biblatex)                Please use 'family-given' instead.
 (biblatex)                Using 'family-given' now.
+
+
+Overfull \hbox (4.40567pt too wide) in paragraph at lines 128--128
+\TU/Calibri(0)/m/n/12 ter-na-tio-nal Con-fe-ren-ce on Acous-tics, Speech and Sig
+-nal Pro-ces-sing (ICASSP), 4463[]4467,
+ []
 
 ... Files/MiKTeX/tex/lualatex/luatodonotes/luatodonotes.lua:2144: Cannot place l
 abels on any side of text (not enough space). Consider using the additionalMargi
@@ -1413,12 +1522,15 @@ tNotes'
 	[\directlua]:1: in main chunk.
 <argument> ...Notes()} \directlua {luatodonotes.printNotes()}
                                                    \end {tikzpicture}\@todon...
-l.84 \end{document}
-                 
+l.130 \end{document}
+                  
 The lua interpreter ran into a problem, so the
 remainder of this lua chunk will be ignored.
 
-[3] (./main.aux * soulpos - computing points - it may take a few seconds *
+[6] (./main.aux
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ * soulpos - computing points - it may take a few seconds *
 \openout4 = main.upb
 
 (./main.upa))
@@ -1428,21 +1540,20 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 28492 strings out of 480878
- 125171,1373583 words of node,token memory allocated
- 600 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 1 dir, 2 glue, 4 kern, 2 glyph, 14 attribute, 66 gl
-ue_spec, 9 attribute_list, 2 write nodes
-   avail lists: 1:2,2:554,3:86,4:25,5:317,6:18,7:3066,8:4,9:131,10:10,11:257
- 45059 multiletter control sequences out of 65536+200000
- 67 fonts using 27946531 bytes
- 71i,10n,83p,1116b,1608s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/WINDOWS/Fonts/calibri.ttf><C:/WINDOWS/Fonts/calibrib.ttf><C:/Program Files/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmmi8.pfb>
-Output written on main.pdf (4 pages, 132801 bytes).
+ 30046 strings out of 480878
+ 125171,1648299 words of node,token memory allocated
+ 599 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 1 dir, 2 glue, 4 kern, 2 glyph, 12 attribute, 67 gl
+ue_spec, 8 attribute_list, 2 write nodes
+   avail lists: 1:3,2:840,3:148,4:47,5:213,6:39,7:1586,8:2,9:216,10:10,11:155
+ 46574 multiletter control sequences out of 65536+200000
+ 70 fonts using 30967995 bytes
+ 71i,11n,99p,1154b,1806s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/WINDOWS/Fonts/calibrii.ttf><C:/WINDOWS/Fonts/calibri.ttf><C:/WINDOWS/Fonts/c
+alibrib.ttf>
+Output written on main.pdf (7 pages, 160332 bytes).
 
-PDF statistics: 42 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 52 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

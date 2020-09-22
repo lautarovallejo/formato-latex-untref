@@ -19,60 +19,254 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{leimeister}{article}{}
+    \entry{Repp2005}{article}{}
       \name{author}{1}{}{%
-        {{hash=e52cc7630f12d6c147e60d643ee05731}{%
-           family={Leimeister},
-           familyi={L\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
+        {{hash=d866fb5392d2d0a12146495b16f533ec}{%
+           family={Repp},
+           familyi={R\bibinitperiod},
+           given={B.\bibnamedelimi H.},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
-      \strng{namehash}{e52cc7630f12d6c147e60d643ee05731}
-      \strng{fullhash}{e52cc7630f12d6c147e60d643ee05731}
-      \strng{bibnamehash}{e52cc7630f12d6c147e60d643ee05731}
-      \strng{authorbibnamehash}{e52cc7630f12d6c147e60d643ee05731}
-      \strng{authornamehash}{e52cc7630f12d6c147e60d643ee05731}
-      \strng{authorfullhash}{e52cc7630f12d6c147e60d643ee05731}
+      \strng{namehash}{d866fb5392d2d0a12146495b16f533ec}
+      \strng{fullhash}{d866fb5392d2d0a12146495b16f533ec}
+      \strng{bibnamehash}{d866fb5392d2d0a12146495b16f533ec}
+      \strng{authorbibnamehash}{d866fb5392d2d0a12146495b16f533ec}
+      \strng{authornamehash}{d866fb5392d2d0a12146495b16f533ec}
+      \strng{authorfullhash}{d866fb5392d2d0a12146495b16f533ec}
       \field{sortinit}{1}
       \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{bookpagination}{page}
-      \field{journaltitle}{test Journal}
+      \field{journaltitle}{Psychonomic bulletin {\&} review}
       \field{month}{01}
-      \field{title}{Feature learning for classifying drum components from nonnegative matrix factorization}
-      \field{volume}{1}
-      \field{year}{2015}
-      \field{pages}{360\bibrangedash 368}
-      \range{pages}{9}
+      \field{number}{6}
+      \field{title}{Sensorimotor synchronization: a review of the tapping literature}
+      \field{volume}{12}
+      \field{year}{2005}
+      \field{pages}{969\bibrangedash 992}
+      \range{pages}{24}
     \endentry
-    \entry{foote1999}{article}{}
+    \entry{Grootswager2020}{article}{}
       \name{author}{1}{}{%
-        {{hash=ff30f652c0562e7b43524660986f21d6}{%
-           family={T.\bibnamedelimi Foote},
-           familyi={T\bibinitperiod\bibinitdelim F\bibinitperiod},
-           given={Jonathan},
-           giveni={J\bibinitperiod}}}%
+        {{hash=59d5f04ea252389539b478f293d359b7}{%
+           family={Grootswagers},
+           familyi={G\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
       }
-      \strng{namehash}{ff30f652c0562e7b43524660986f21d6}
-      \strng{fullhash}{ff30f652c0562e7b43524660986f21d6}
-      \strng{bibnamehash}{ff30f652c0562e7b43524660986f21d6}
-      \strng{authorbibnamehash}{ff30f652c0562e7b43524660986f21d6}
-      \strng{authornamehash}{ff30f652c0562e7b43524660986f21d6}
-      \strng{authorfullhash}{ff30f652c0562e7b43524660986f21d6}
+      \strng{namehash}{59d5f04ea252389539b478f293d359b7}
+      \strng{fullhash}{59d5f04ea252389539b478f293d359b7}
+      \strng{bibnamehash}{59d5f04ea252389539b478f293d359b7}
+      \strng{authorbibnamehash}{59d5f04ea252389539b478f293d359b7}
+      \strng{authornamehash}{59d5f04ea252389539b478f293d359b7}
+      \strng{authorfullhash}{59d5f04ea252389539b478f293d359b7}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{bookpagination}{page}
-      \field{journaltitle}{Proceedings of SPIE - The International Society for Optical Engineering}
-      \field{month}{05}
-      \field{number}{31}
-      \field{title}{Content-Based Retrieval of Music and Audio}
-      \field{volume}{3229}
-      \field{year}{1999}
-      \field{pages}{10E\bibrangedash 20E}
+      \field{journaltitle}{PsyArXiv. March}
+      \field{month}{03}
+      \field{title}{A primer on running human behavioural experiments online}
+      \field{volume}{18}
+      \field{year}{2020}
+    \endentry
+    \entry{Geronazzo2014}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=99af30c1a80780b1695a67a8343c79f3}{%
+           family={Geronazzo},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=db76fe299879ca4883ab7047b905f8bc}{%
+           family={Spagnol},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d441315440742896da450027861eca84}{%
+           family={Bedin},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=382a39e6c3a75893202e08931145b30c}{%
+           family={Avanzini},
+           familyi={A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ee0acdb205e1b7da834c4c4a151f4eb}
+      \strng{fullhash}{8e7723a239531560f8fc5e2f12108779}
+      \strng{bibnamehash}{8e7723a239531560f8fc5e2f12108779}
+      \strng{authorbibnamehash}{8e7723a239531560f8fc5e2f12108779}
+      \strng{authornamehash}{6ee0acdb205e1b7da834c4c4a151f4eb}
+      \strng{authorfullhash}{8e7723a239531560f8fc5e2f12108779}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}
+      \field{month}{01}
+      \field{title}{Enhancing vertical localization with image-guided selection of non-individual head-related transfer functions}
+      \field{year}{2014}
+      \field{pages}{4463\bibrangedash 4467}
+      \range{pages}{5}
+    \endentry
+    \entry{Gallant2019}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3cbb258b6a9e2dda943016e0b1577fce}{%
+           family={Gallant},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=267f08c2f97aa8d29020304ad6f1326c}{%
+           family={Libben},
+           familyi={L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{233961eb93cabbd1565b3c51f82e5530}
+      \strng{fullhash}{233961eb93cabbd1565b3c51f82e5530}
+      \strng{bibnamehash}{233961eb93cabbd1565b3c51f82e5530}
+      \strng{authorbibnamehash}{233961eb93cabbd1565b3c51f82e5530}
+      \strng{authornamehash}{233961eb93cabbd1565b3c51f82e5530}
+      \strng{authorfullhash}{233961eb93cabbd1565b3c51f82e5530}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{journaltitle}{The Mental Lexicon}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{No lab, no problem: Designing lexical comprehension and production experiments using PsychoPy3}
+      \field{volume}{14}
+      \field{year}{2019}
+      \field{pages}{152\bibrangedash 168}
+      \range{pages}{17}
+    \endentry
+    \entry{Bridges2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c6a129b95c0fbac2149cc768d8841a0a}{%
+           family={Bridges},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bbd3805b3e0422f1d218494be1bb34b3}{%
+           family={Pitiot},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6b4e3b3d28b7784680670b699e7d2ee5}{%
+           family={MacAskill},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=4d6d8970cbe5bf28177cf168c27383d8}{%
+           family={Peirce},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{d4438acea8a5f33009027185151d7954}
+      \strng{fullhash}{8e46310b2409189de7ba54a87e9587cd}
+      \strng{bibnamehash}{8e46310b2409189de7ba54a87e9587cd}
+      \strng{authorbibnamehash}{8e46310b2409189de7ba54a87e9587cd}
+      \strng{authornamehash}{d4438acea8a5f33009027185151d7954}
+      \strng{authorfullhash}{8e46310b2409189de7ba54a87e9587cd}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{journaltitle}{PeerJ}
+      \field{month}{01}
+      \field{title}{The timing mega-study: comparing a range of experiment generators, both lab-based and online}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{pages}{e9414}
       \range{pages}{-1}
+    \endentry
+    \entry{Anwyl2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=66f364cf63b8d94d59f171db374bb8be}{%
+           family={Anwyl-Irvine},
+           familyi={A\bibinithyphendelim I\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7a1e2b9b06ae12584d3a01cf3a85246a}{%
+           family={Dalmaijer},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=cdadf8231598dfb37ff540d0495b0f62}{%
+           family={Hodges},
+           familyi={H\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ffcb04d1acf5d9540372e72ef68fb9ca}{%
+           family={Evershed},
+           familyi={E\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{3aaccef5f0c0cc6b50b2cc1d8422d31b}
+      \strng{fullhash}{54a9f7d1a1a4b68c2b1cb394053eca48}
+      \strng{bibnamehash}{54a9f7d1a1a4b68c2b1cb394053eca48}
+      \strng{authorbibnamehash}{54a9f7d1a1a4b68c2b1cb394053eca48}
+      \strng{authornamehash}{3aaccef5f0c0cc6b50b2cc1d8422d31b}
+      \strng{authorfullhash}{54a9f7d1a1a4b68c2b1cb394053eca48}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{month}{01}
+      \field{title}{Online Timing Accuracy and Precision: A comparison of platforms, browsers, and participant's devices}
+      \field{year}{2020}
+    \endentry
+    \entry{Pronk2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7a41b99a1634e59f60ff6624f8b83bc2}{%
+           family={Pronk},
+           familyi={P\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=10af6d74e4aad687f9325bf57c4ef2b6}{%
+           family={Wiers},
+           familyi={W\bibinitperiod},
+           given={R.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=beca64380be7e06be38490268a701338}{%
+           family={Molenkamp},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5848084338c54900b2f918695edd1359}{%
+           family={Murre},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca7678abcf359588aa08857e25454faf}
+      \strng{fullhash}{12e2839d71c4c60d213fb0d87846821b}
+      \strng{bibnamehash}{12e2839d71c4c60d213fb0d87846821b}
+      \strng{authorbibnamehash}{12e2839d71c4c60d213fb0d87846821b}
+      \strng{authornamehash}{ca7678abcf359588aa08857e25454faf}
+      \strng{authorfullhash}{12e2839d71c4c60d213fb0d87846821b}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{month}{01}
+      \field{number}{3}
+      \field{title}{Mental chronometry in the pocket? Timing accuracy of web applications on touchscreen and keyboard devices}
+      \field{volume}{53}
+      \field{year}{2020}
+      \field{pages}{1371\bibrangedash 1382}
+      \range{pages}{12}
     \endentry
   \enddatalist
 \endrefsection
