@@ -296,6 +296,20 @@
       \verb http://recherche.ircam.fr/equipes/salles/listen/index.html
       \endverb
     \endentry
+    \entry{KEMAR}{webpage}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labeltitlesource}{title}
+      \field{extraction}{28 de septiembre de 2020}
+      \field{pageowner}{G.R.A.S. Sound and Vibration}
+      \field{title}{KEMAR rejuvenated}
+      \verb{urlraw}
+      \verb http://kemar.us/
+      \endverb
+      \verb{url}
+      \verb http://kemar.us/
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
