@@ -41,11 +41,26 @@
 \setlength{\marginparwidth}{2 cm}
 \usepackage[left=3cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry} %márgenes
 %\usepackage[sorting=none,maxbibnames=99,isbn=false,doi=false,eprint=false,giveninits=true]{biblatex}
+\usepackage{hyperref} %para que las url sean hipervínculos
+\hypersetup{ %formato de url (texto en azul y sin bordes)
+	colorlinks = true,
+	linkcolor = black,
+	anchorcolor = black,
+	citecolor = black,
+	urlcolor=blue,
+	bookmarksopen = true,
+	bookmarksnumbered = true,
+	bookmarksopenlevel = 2,
+	pdfstartview = {FitH},
+	pdfborder = {0 0 0}
+}
 \usepackage[
+hyperref=true,
 backend=biber,
 sorting=none,
 style=numeric-comp
 ]{biblatex} %referencias
+\urlstyle{same} %previene que la url tenga otro formato
 \renewbibmacro{in:}{}
 \DeclareNameAlias{default}{last-first}
 \addbibresource{referencias.bib} %añade archivo de referencias

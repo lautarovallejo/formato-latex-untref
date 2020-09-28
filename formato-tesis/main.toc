@@ -1,30 +1,30 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {spanish}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Fundamentación e Introducción.}{3}%
+\contentsline {section}{\numberline {1}Fundamentación e Introducción.}{3}{section.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Objetivos}{3}%
+\contentsline {section}{\numberline {2}Objetivos}{3}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Objetivo general}{3}%
+\contentsline {subsection}{\numberline {2.1}Objetivo general}{3}{subsection.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Objetivo específico}{3}%
+\contentsline {subsection}{\numberline {2.2}Objetivo específico}{3}{subsection.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Marco Teórico y Estado del Arte.}{3}%
+\contentsline {section}{\numberline {3}Marco Teórico y Estado del Arte.}{3}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Diseño de la Investigación.}{3}%
+\contentsline {section}{\numberline {4}Diseño de la Investigación.}{3}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Diseño prueba objetiva: Definición de Variables.}{3}%
+\contentsline {subsection}{\numberline {4.1}Diseño prueba objetiva: Definición de Variables.}{3}{subsection.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Diseño prueba subjetiva: Encuesta y Muestra.}{4}%
+\contentsline {subsection}{\numberline {4.2}Diseño prueba subjetiva: Encuesta y Muestra.}{4}{subsection.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Resultados.}{5}%
+\contentsline {section}{\numberline {5}Resultados.}{5}{section.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Discusiones.}{5}%
+\contentsline {section}{\numberline {6}Discusiones.}{5}{section.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}Conclusiones}{5}%
+\contentsline {section}{\numberline {7}Conclusiones}{5}{section.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8}Líneas futuras de investigación.}{5}%
+\contentsline {section}{\numberline {8}Líneas futuras de investigación.}{5}{section.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9}Cronograma}{5}%
+\contentsline {section}{\numberline {9}Cronograma}{5}{section.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10}Bibliografía}{6}%
+\contentsline {section}{\numberline {10}Bibliografía}{6}{section.10}%

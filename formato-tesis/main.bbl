@@ -268,6 +268,34 @@
       \field{pages}{1371\bibrangedash 1382}
       \range{pages}{12}
     \endentry
+    \entry{Warusfel2002}{webpage}{}
+      \name{author}{1}{}{%
+        {{hash=1915394decab8ad16026c921e55e1e53}{%
+           family={Warusfel},
+           familyi={W\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{1915394decab8ad16026c921e55e1e53}
+      \strng{fullhash}{1915394decab8ad16026c921e55e1e53}
+      \strng{bibnamehash}{1915394decab8ad16026c921e55e1e53}
+      \strng{authorbibnamehash}{1915394decab8ad16026c921e55e1e53}
+      \strng{authornamehash}{1915394decab8ad16026c921e55e1e53}
+      \strng{authorfullhash}{1915394decab8ad16026c921e55e1e53}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{extraction}{28 de Septiembre de 2020}
+      \field{title}{Listen hrtf database}
+      \field{year}{2002}
+      \verb{urlraw}
+      \verb http://recherche.ircam.fr/equipes/salles/listen/index.html
+      \endverb
+      \verb{url}
+      \verb http://recherche.ircam.fr/equipes/salles/listen/index.html
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
