@@ -1,16 +1,16 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
-[1] Config.pm:307> INFO - Logfile is 'main.blg'
-[132] biber-MSWIN64:322> INFO - === 
-[163] Biber.pm:415> INFO - Reading 'main.bcf'
-[338] Biber.pm:943> INFO - Found 9 citekeys in bib section 0
-[370] Biber.pm:4256> INFO - Processing section 0
-[370] Utils.pm:75> INFO - Globbing data source 'referencias.bib'
-[386] Utils.pm:91> INFO - Globbed data source 'referencias.bib' to referencias.bib
-[410] Biber.pm:4455> INFO - Looking for bibtex format file 'referencias.bib' for section 0
-[413] bibtex.pm:1653> INFO - LaTeX decoding ...
-[446] bibtex.pm:1471> INFO - Found BibTeX data source 'referencias.bib'
-[552] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[552] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[552] Biber.pm:4084> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
-[572] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[579] bbl.pm:755> INFO - Output to main.bbl
+[0] Config.pm:307> INFO - Logfile is 'main.blg'
+[85] biber-MSWIN64:322> INFO - === 
+[110] Biber.pm:415> INFO - Reading 'main.bcf'
+[259] Biber.pm:943> INFO - Found 9 citekeys in bib section 0
+[280] Biber.pm:4256> INFO - Processing section 0
+[280] Utils.pm:75> INFO - Globbing data source 'referencias.bib'
+[291] Utils.pm:91> INFO - Globbed data source 'referencias.bib' to referencias.bib
+[310] Biber.pm:4455> INFO - Looking for bibtex format file 'referencias.bib' for section 0
+[313] bibtex.pm:1653> INFO - LaTeX decoding ...
+[342] bibtex.pm:1471> INFO - Found BibTeX data source 'referencias.bib'
+[440] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[441] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[441] Biber.pm:4084> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[459] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[466] bbl.pm:755> INFO - Output to main.bbl

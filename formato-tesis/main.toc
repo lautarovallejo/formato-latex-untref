@@ -11,9 +11,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Marco Teórico y Estado del Arte.}{3}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Diseño de la Investigación.}{3}{section.4}%
+\contentsline {section}{\numberline {4}Diseño de la Investigación.}{4}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Diseño prueba objetiva: Definición de Variables.}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.1}Diseño prueba objetiva: Definición de Variables.}{4}{subsection.4.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2}Diseño prueba subjetiva: Encuesta y Muestra.}{4}{subsection.4.2}%
 \defcounter {refsection}{0}\relax 
